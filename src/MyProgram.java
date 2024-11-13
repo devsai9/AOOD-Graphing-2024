@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class MyProgram {
     public static void main(String[] args) {
         
-        XYGrapher[] graphs = new XYGrapher[]{new GrapherTester(), new GrapherTester2(), new GrapherTester3()};
+        XYGrapher[] graphs = new XYGrapher[]{new GrapherTester1(), new GrapherTester2(), new GrapherTester3()};
         
         int[] params = new int[]{0, 0, 200, 200};
         
