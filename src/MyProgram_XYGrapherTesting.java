@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class MyProgram {
+public class MyProgram_XYGrapherTesting {
     public static void main(String[] args) {
         
         XYGrapher[] graphs = new XYGrapher[]{new GrapherTester1(), new GrapherTester2(), new GrapherTester3()};

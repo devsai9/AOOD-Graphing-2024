@@ -1,3 +1,5 @@
+package testers;
+
 public class GrapherTester2 extends XYGrapher {
     @Override
     public Coordinate xyStart() {
