@@ -8,7 +8,7 @@ public abstract class FunctionGrapher extends XYGrapher {
     
     public double xValue(int pointNum) { 
         if (pointNum == 0) return xyStart().getX();
-        return ((double) pointNum) * xIncrement(); 
+        return ((double) pointNum) * xIncrement() + xyStart().getX(); 
     }
     
     public abstract double yValue(double xValue);
