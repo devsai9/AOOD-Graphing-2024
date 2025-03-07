@@ -10,5 +10,6 @@ This repository has several assignments/projects I did in my AOOD class during o
 
 ## Technologies used
 - Java
+- CodeHS
 - Jetbrains IntelliJ IDEA
 - Git & GitHub
